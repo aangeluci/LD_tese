@@ -27,7 +27,7 @@ O trabalho parte do entendimento de que as transformações digitais não modifi
 
 ## Contribuição central
 
-A contribuição central da tese é a formulação da **Decodificação de Fenômenos Infocomunicacionais — DIF**, compreendida como uma operação epistemológica orientada à reconstrução crítica das mediações que conectam:
+A contribuição central da tese é a formulação da **Decodificação de Fenômenos Infocomunicacionais — dIF**, compreendida como uma operação epistemológica orientada à reconstrução crítica das mediações que conectam:
 
 1. fenômenos;
 2. rastros;
